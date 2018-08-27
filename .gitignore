@@ -1,0 +1,13 @@
+.idea
+/bitrix/*
+/upload/*
+*.xml
+*.zip
+*.tar.gz
+*.jpg
+*.html
+*.png
+*.gif
+*.txt
+*.ico
+.DS_Store
